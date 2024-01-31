@@ -11,7 +11,7 @@ A MERN based application where you can search your favorite books and save favor
 1. [About](#about)
 2. [Story](#user-story)
 3. [Visuals](#visuals)
-4. [Installation](#installation)
+4. [Use](#use)
 5. [License](#license)
 6. [Contributing](#contributing)
 7. [Contact](#contact)
@@ -44,12 +44,12 @@ SO THAT I can keep a list of books to purchase
 
 ---
 
-## Installation:
+## Use:
 
 ```
-To clone the repo:
+npm run start from server folder
 
-git clone in gitbash
+nom run dev from client folder
 ```
 
 ---
